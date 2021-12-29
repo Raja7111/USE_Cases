@@ -6251,9 +6251,9 @@
     "restore": {
       "projectUniqueName": "RE_FRAME_WORK_FRUIT_PROJECT",
       "projectName": "RE_FRAME_WORK_FRUIT_PROJECT",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\RE_FRAME_WORK_FRUIT_PROJECT\\.local",
+      "projectPath": "G:\\USE_Cases\\RE_FRAME_WORK_FRUIT_PROJECT\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\RE_FRAME_WORK_FRUIT_PROJECT\\.local"
+      "outputPath": "G:\\USE_Cases\\RE_FRAME_WORK_FRUIT_PROJECT\\.local"
     },
     "frameworks": {
       "net461": {
