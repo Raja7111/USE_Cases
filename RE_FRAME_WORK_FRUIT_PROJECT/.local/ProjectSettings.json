@@ -1,1 +1,1 @@
-{"ProjectBreakpoints":"{\"Value\":{}}","OpenedDocuments":"[\"Main.xaml\"]","ProjectWatches":"{\"Value\":[]}"}
+{"ProjectBreakpoints":"{\"Value\":{\"regex.xaml\":[{\"ConditionalExpression\":null,\"ActionExpression\":null,\"ExpectedHitCounter\":null,\"ShouldContinueAfterAction\":false,\"IsTransient\":false,\"IsEnabled\":true,\"Id\":\"89403ce3-208a-4d62-baf0-6fb774e4991a\",\"ActivityIdRef\":\"If_1\",\"ActivityId\":\"1.7\",\"ActivityName\":\"If no match was found\"}]}}","OpenedDocuments":"[\"Main.xaml\"]","ProjectWatches":"{\"Value\":[]}"}
