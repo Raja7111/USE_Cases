@@ -1,0 +1,11 @@
+Discription:
+
+This Projec Focuses on automating the manual process .Here we Developed the bot to download the files  form the 
+(SAS Application) and format the data in (Excel application) and sending the mails with attaching the formatted output file by using (outlook application).
+Here the bot is an unatteded bot which use to run in the virtual machine.
+
+Responsibilities:
+1)Extensively worked on debugging application for fixing bugs and production support
+2)Conducting unit testing and system testing.
+3)Deign,develope,test and implement program changes to achive the business goals of the user.
+4)Gathering detailed requirements from client for business requirements.

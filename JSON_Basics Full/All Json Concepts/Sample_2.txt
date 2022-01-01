@@ -1,0 +1,9 @@
+{
+	"Name":"Jhon",
+	"id":5,
+	"car":"BMW",
+	"Photo":{
+			"height":200,
+			"Width":100
+		}
+}

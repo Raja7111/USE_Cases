@@ -1,0 +1,20 @@
+{
+	"Records":
+	[
+		{
+			"name":"John",
+			"id":1,
+			"cars":["BMW","AUDI","HONDA"]
+		},
+		{
+			"name":"Tim",
+			"id":2,
+			"cars":["VM","SEAT","SKODA"]
+		},
+		{
+			"name":"Jeff",
+			"id":3,
+			"cars":["BENZ","MARUTI","SUZIKI"]
+		}
+	]
+}

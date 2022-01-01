@@ -1,0 +1,16 @@
+{
+"Name":"Adarsh",
+"Email":"xyz@gmail.com",
+"Developer":null,
+"Rating":4.5,
+"Intresets":[
+		{
+			"Category":"Tech",
+			"Languages":["C","Java"]
+		},
+		{
+			"Category":"Tech",
+			"Others":["Playing Games","Cooking"]
+		}
+	     ]
+}
