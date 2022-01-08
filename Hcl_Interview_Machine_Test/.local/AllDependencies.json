@@ -7557,9 +7557,9 @@
     "restore": {
       "projectUniqueName": "Hcl_Interview_Machine_Test",
       "projectName": "Hcl_Interview_Machine_Test",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\Hcl_Interview_Machine_Test\\.local",
+      "projectPath": "G:\\USE_Cases\\Hcl_Interview_Machine_Test\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\Hcl_Interview_Machine_Test\\.local"
+      "outputPath": "G:\\USE_Cases\\Hcl_Interview_Machine_Test\\.local"
     },
     "frameworks": {
       "net461": {
