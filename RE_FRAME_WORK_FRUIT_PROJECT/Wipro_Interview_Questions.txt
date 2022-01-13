@@ -1,0 +1,161 @@
+1ST-Interview WIPRO  QUESTIONS(UIPATH)  location DELHI 
+
+ 
+
+ 
+
+ 
+
+1) How many Exceptions are there and explain in which Senarios will use those exceptions in project and tell me the difference between those exceptions with examples?   
+
+Ans) 
+
+ 
+
+ 
+
+2) What is Difference Between Delay time and Time out . What is the importance of both and in which senarios will use this Concepts? 
+
+Ans) 
+
+ 
+
+ 
+
+3) What is idx Attribute? Is it importnant to use this Attribute ?? 
+
+Ans) 
+
+ 
+
+4) What is Selector? And what is Dynamic selector and how to implement or Create the Dynamic Selector .. Did you faced any issues while using the selctors and how you resolved it?? 
+
+Ans) 
+
+ 
+
+5) What is While Loop and Do while Loop and tell me the difference between them? 
+
+Ans) 
+
+ 
+
+6)What is the Use of Continue on Error Property and when to use this Property?? 
+
+Ans) 
+
+ 
+
+7)What is RETRY Scope and in which Senarios will use this Activity? Tell me By taking any Example. 
+
+Ans) 
+
+ 
+
+8) What is the Use of Switch Activity and how it is Different from - If else activity 
+
+Ans) 
+
+ 
+
+9)Where you will upload or Store the Code After Developing ? 
+
+Ans) 
+
+ 
+
+10) What is your Roles and Resposibilities in your Organisation? 
+
+Ans) 
+
+ 
+
+11) What is Simulate click/Type activity ? 
+
+Ans) 
+
+ 
+
+ 
+
+12) Tell me the steps involved in Publishing the Code to Orchestrator? 
+
+Ans)  
+
+ 
+
+ 
+
+13)where to store the credentials in Orchestrator and how you can assign the same Credentials to Multiple Bots ? So that they can you this Credentials to run there process. 
+
+Ans) 
+
+ 
+
+14) Suppose Persion 1 Created the Process and and you want to use this Xaml file in your Process . What are the Steps you will do in order to use this Process  For Example Person 1 Created the Mail Activity and you need to Use this Mail Activity in your Process How To do that? 
+
+ 
+
+Ans) 
+
+ 
+
+ 
+
+15) Have you Woked on any Generic Type Value and tell me when to use this Generic Type? 
+
+Ans)  
+
+ 
+
+16) What is Where Clause in Sql Query? 
+
+Ans)   
+
+ 
+
+17)What is Your Team Size?  
+
+ Ans) 
+
+ 
+
+18) What are the Septs Invoded to Run the bot After Puiblishing the process to Orchestrator? 
+
+Ans) 
+
+ 
+
+19)Have you Used Exception Handling in Your Project ?? If you Used how you used it?? 
+
+Ans) 
+
+ 
+
+20)If you have the Excel where One Column in Hidden but you want to write the data in that perticular cloumn ,But it will Throws an error because of the absense of column so how you will handle this Exception? 
+
+Ans) 
+
+ 
+
+21)Have you Worked on Documentation if yes tell me which Tool you have used for Creating the Documentation? 
+
+Ans) 
+
+ 
+
+22)What is the Difference between Throw and Rethrow Activity? And when to use this activities?? 
+
+Ans) 
+
+ 
+
+23) If I have one excel which consists of column 1 and column 2 and in column 1 I have {new,old,fresh} and in Column 2 I have {1,2,3} by using switch activity I need to create the excel files with the cloumn 1 records like new.xlsx and old.xlsx and fresh.xlsx so what are the steps will you do and that switch activity will take only integer type argument ? 
+
+Ans) 
+
+ 
+
+24) Have you used any Loggings in Your Project Could you explain me how u used it?? 
+
+Ans) 
