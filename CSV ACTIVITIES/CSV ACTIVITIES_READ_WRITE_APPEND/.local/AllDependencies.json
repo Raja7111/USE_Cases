@@ -7557,9 +7557,9 @@
     "restore": {
       "projectUniqueName": "CSV ACTIVITIES",
       "projectName": "CSV ACTIVITIES",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\CSV ACTIVITIES\\.local",
+      "projectPath": "G:\\USE_Cases\\CSV ACTIVITIES\\CSV ACTIVITIES_READ_WRITE_APPEND\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\CSV ACTIVITIES\\.local"
+      "outputPath": "G:\\USE_Cases\\CSV ACTIVITIES\\CSV ACTIVITIES_READ_WRITE_APPEND\\.local"
     },
     "frameworks": {
       "net461": {

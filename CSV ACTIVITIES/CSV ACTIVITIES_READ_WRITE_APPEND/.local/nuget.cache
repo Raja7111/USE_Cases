@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTSG4qdAL1WNE10auBgBzBoBHptg5wNVz1kKf9DAZvMpAgPpxx82NirsZ+7mgXq49em0MXIId+d5dyxslQmdkQ==",
+  "dgSpecHash": "b67ea+jnQLLxNIXEgjlwWKpo093DveGfK7vMOXuVZZZUnpFjDcJV8r+vuqdEbQLu0CW5MsnZVxhET6o1rj1r7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documents\\UiPath\\CSV ACTIVITIES\\.local\\",
+  "projectFilePath": "G:\\USE_Cases\\CSV ACTIVITIES\\CSV ACTIVITIES_READ_WRITE_APPEND\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
