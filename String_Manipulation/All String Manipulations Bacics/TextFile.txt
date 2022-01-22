@@ -1,0 +1,31 @@
+Estimate
+FROM
+This Company LTD - Robotic
+Automations
+3216 Maple Court
+California
+MO 63101
+oﬃce@thiscompanyLTD.com
+TO
+SomeWebHost LTD
+337 Bath Road
+Berkshire
+SL1 5P
+oﬃce@thiswebhostltd.com
+
+Estimate #:
+Date:
+EST0001
+Dec 17, 2019
+
+DESCRIPTION RATE QTY AMOUNT
+
+Consulting Services $180.00 80 * $14,400.00
+
+* Indicates non-taxable line item Subtotal $14,400.00
+Discount (25%) -$3,600.00
+Tax (0%) $0.00
+
+Total $10,800.00
+
+https://app.invoicesimple.com/estimates/OS8nUCEUM1 1/1
